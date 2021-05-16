@@ -27,6 +27,6 @@ This application was built using object oriented principles to modularize code.
 
 It uses the Javaswing library and paint functions to implement graphics.
 ___
-![Newton's Vision](start.png)
-![Newton's Vision](input.png)
-![Newton's Vision](results.png)
+![Newton's Vision](Start.png)
+![Newton's Vision](Input.png)
+![Newton's Vision](Results.png)
