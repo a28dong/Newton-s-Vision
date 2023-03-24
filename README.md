@@ -1,4 +1,5 @@
 # Newton's-Vision
+**High School Computer Science Project**
 
 This application demonstrates and calculates aspects and concepts of Dynamics.
 
